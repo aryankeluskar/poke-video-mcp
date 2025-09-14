@@ -1,0 +1,1 @@
+"""Video Query MCP Server package"""
