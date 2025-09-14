@@ -25,6 +25,6 @@ playground = "smithery.cli.playground:main"
 
 [tool.smithery]
 # Function that returns a patched FastMCP server
-server = "video_query_mcp.server:create_server"
+server = "server:create_server"
 
 
